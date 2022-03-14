@@ -39,9 +39,9 @@
 - pkg install Bash
 - pkg install libwebp
 - pkg install tesseract
-- git clone Link Sc Nya
-- cd Nama Repository Nya
-- npm i (kalo Ada Module Nya Ga Ush)
+- git https://github.com/XzeeBotz/Xzee-V1
+- cd Xzee-V1
+- npm i 
 - npm start
 - tinggal Scan😉
 
